@@ -1,3 +1,2 @@
 # algorithm
-Algorithm Problem solving
-
+Algorithm Problem solving, using BaekjoonHub
