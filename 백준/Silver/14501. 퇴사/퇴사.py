@@ -1,3 +1,5 @@
+# [DP, bottom-up]
+
 N = int(input())
 
 t = []
