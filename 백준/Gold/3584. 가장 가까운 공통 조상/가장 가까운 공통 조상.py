@@ -21,7 +21,6 @@ for _ in range(c):
         x=tree[x]
 
     # x와 y의 공통 조상 찾기
-    y_parent = [] 
     while y:
         if y in x_parent:
             answer.append(y)
